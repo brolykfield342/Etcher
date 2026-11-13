@@ -203,4 +203,4 @@ This repository serves as the official landing page for Etcher. The software is 
 **Get the most recent version of Etcher today!**
 
 ---
-**Last updated:** 2026-11-13 10:12:26 UTC
+**Last updated:** 2026-11-13 18:13:49 UTC
